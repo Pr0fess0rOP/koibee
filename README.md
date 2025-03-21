@@ -3,6 +3,7 @@
 # Koibee - A Random User Generator
 
 A zero dependency library for generating random users without any API calls.
+(Created as a project under Leet Hudka)
 
 
 ## Features
@@ -82,19 +83,20 @@ console.log(koibee({
 ```
 # Author
 ### 🚀 About Me
-Dedicated and efficient Javascript Developer having experience in application layers,
-presentation layers, and databases. Always ready to help people with
-technology. 🧑🏻‍💻
+Hi there! I'm Pathik Viramgama, a graduate Computer Science student at the University of Southern California, passionate about building innovative software and mobile applications. With hands-on experience in Android development, full-stack web engineering, and AI integration, I've worked on real-world projects that combine performance, usability, and cutting-edge technology.
+
+I’ve developed everything from Kotlin apps and MERN stack platforms to AI-driven websites, and even trained deep learning models during my time with the Indian Meteorological Department. Whether it's building scalable backends, optimizing app performance, or diving into machine learning models, I'm always excited to learn and create. I thank Leet Hudka for this opportunity to learn!🧑🏻‍💻
 ### 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iam1337.dev/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leet1337/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_iam1337)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathikviramgama15/)
 
 
-## Collaborators
+## Mentors and Collaborators
 
+- Leet Hudka
+    [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iam1337-dev)
+    [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leet1337/)
+  
 - Brijesh Akhiya 
     [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brijeshAkhiya)
     [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijesh-akhiya-246330188/)
-## License
-Copyright © 2022 Leet Hudka Released under the [MIT](https://choosealicense.com/licenses/mit/) license.
+
